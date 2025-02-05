@@ -1,0 +1,8 @@
+#Define a function.
+def isPalindrome(string):
+for i in range(int(len(string)/2)):
+if string[i] != string[len(string)-i-1]:
+return "The string is not a palindrome."
+return "The string is a palindrome."
+#Enter input string.
+string = input ("Enter string: ")
