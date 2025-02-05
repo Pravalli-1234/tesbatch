@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 linux is operating system
 it is a free source
 it allows multiple users and multitasking
 
+=======
+#include <stdio. h>
+void printMessage() {
+printf("Hello, World!");
+}
+int main() {
+printMessage();
+return 0;
+}
+>>>>>>> d33b874d06683b783fd59ccc7cf19dcf5e5d0b18
