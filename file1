@@ -1,0 +1,8 @@
+#include <stdio. h>
+void printMessage() {
+printf("Hello, World!");
+}
+int main() {
+printMessage();
+return 0;
+}
